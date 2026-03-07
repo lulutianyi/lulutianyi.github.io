@@ -1,3 +1,19 @@
 :root{
   --theme-color:#8b0000;
 }
+
+body{
+  background:#0f0f0f;
+}
+
+.card-widget{
+  background:#1c1c1c;
+}
+
+#recent-posts>.recent-post-item{
+  background:#1c1c1c;
+}
+
+#page-header{
+  background:#1a0000;
+}
